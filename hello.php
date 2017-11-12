@@ -3,11 +3,11 @@
 <body>
 
 <h1>Hello World PHP Program<br>
-committed first version
+committed first version by user tom
 </h1>
 
 <?php
-echo "Hello World!";
+echo "Hello World! created by tom";
 ?>
 
 </body>
