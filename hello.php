@@ -3,7 +3,7 @@
 <body>
 
 <h1>Hello World PHP Program<br>
-commited from development slot
+This file is created in central US region
 </h1>
 
 <?php
