@@ -8,7 +8,7 @@ This file is created in central US region
 </h1>
 
 <?php
-echo "Hello World! created by praveen from development slot";
+echo "Hello World! created by praveen from production slot updated at 11:34 am";
 ?>
 
 </body>
